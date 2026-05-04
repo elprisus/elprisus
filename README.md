@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elprisus
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning godot
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me idk
 - 😄 Pronouns: he/him
